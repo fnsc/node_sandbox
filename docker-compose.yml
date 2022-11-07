@@ -1,0 +1,8 @@
+version: "3.7"
+
+services:
+    node:
+        build:
+            dockerfile: ./docker/node/Dockerfile
+        volumes:
+            - ./:/var/www/html

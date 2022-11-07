@@ -1,0 +1,23 @@
+{
+  "name": "node_sandbox",
+  "version": "1.0.0",
+  "description": "Node sandbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fnsc/node_sandbox.git"
+  },
+  "keywords": [
+    "node",
+    "learning"
+  ],
+  "author": "Gabriel Fonseca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fnsc/node_sandbox/issues"
+  },
+  "homepage": "https://github.com/fnsc/node_sandbox#readme"
+}
